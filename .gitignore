@@ -1,3 +1,4 @@
 *.so
 Gemfile.lock
+package-lock.json
 sample
