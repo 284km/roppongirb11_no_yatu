@@ -1,5 +1,6 @@
 *.so
 *.dylib
+*.h
 Gemfile.lock
 package-lock.json
 sample
